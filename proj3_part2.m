@@ -5,7 +5,6 @@ fprintf('\n####################################################################\
 fprintf(' Equations of motion in classical physics ')
 fprintf('\n####################################################################\n')
 fprintf(' Kayode Olumoyin ')
-fprintf(' COMS 7100 ')
 fprintf(' Project 3 ')
 fprintf(' Part 2 ')
 fprintf('\n####################################################################\n')
@@ -249,22 +248,3 @@ else
 end
 f = f1+f2+f3+f4+f5+f6+f7+f8+f9;
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
